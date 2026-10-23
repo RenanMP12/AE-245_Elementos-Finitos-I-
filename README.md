@@ -123,7 +123,7 @@ These solutions were written for study purposes and reflect my understanding at 
 
 ## 📬 Contact
 
-**Renan M. P.**, Master's in Mechanical Engineering (Unicamp)
+**Renan M. P.**, PhD in Mechanical Engineering (University of Waterloo, Canadá)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
 [![Email](https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
